@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit 725 week 2 prac",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scpatel2020/sit725-2021-t2-prac2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Sohilkumar Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scpatel2020/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/scpatel2020/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
